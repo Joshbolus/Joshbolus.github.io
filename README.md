@@ -1,2 +1,0 @@
-# Joshbolus.github.io
-Portfolio
