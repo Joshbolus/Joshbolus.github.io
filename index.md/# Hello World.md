@@ -19,3 +19,6 @@ My GitHub page is http://github.com/Joshbolus.
 * Lab 11
 
     Lab 11, part 1 was one of my favorite labs as it had changed the way we code which was a challenge. As we were supposed to change our coding style from the procedural style that we had done the whole semester to an object oriented program that made the center of attention of our code around the objects of the code.
+
+
+![The gradient image from Lab 10](images/gradient.png)
